@@ -1,0 +1,40 @@
+______________________File System____________________
+
+Student: Anh Nguyen - CIS 3207
+
+This project provides us chance to implement a real File System based on FAT16 Design
+The Design for this project are:
+    - 8 blocks (4096 bytes) for File Allocation Table, each entry will store pointer
+      to next block (2 bytes)
+    - 2 blocks (1024 bytes) for Directory Entry Table which store filename, their first
+      block in FAT and meta data, each entry will be 32 bytes
+    - The rest are for Data, which will be 1048576 bytes in total
+
+Code Structure:
+-I used memory mapped file I/O in this project and divide the drive into 3 portions: 
+ fatMap , dirTable and dataMap
+-The project consists of 6 main IOCS functions and an User Interface to experiment with it
+ +) create:
+           -search for file in root directory, if already exist generate error
+           -else: create an entry, update Dir Table, update FAT, add the filename to the current
+                  directory block
+           -if the file is a directory, update currentDir to indicate we are in the directory after
+            creation
+ +) delete:
+           -search for file in root directory, if not exist, generate error
+           -remove entry from dir Table
+           -Update FAT and the filename in current directory block
+ +) open: 
+           -find the first block of the file
+ +) close: -go back to root directory
+ +) read:  -from the 1st block, navigate all the other blocks and read it into a buffer
+ +) write: -from the 1st block, navigate to the last block, find new empty block to inser
+            data, then update FAT, meta data.
+
+Project Execution:
+-press make and ./serv and the user interface will pop up
+
+Result and test case:
+-Included in test.doc file
+
+           

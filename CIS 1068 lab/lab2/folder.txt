@@ -1,0 +1,19 @@
+.
+..
+main.o
+file.txt
+out.txt
+hello.c
+.DS_Store
+file
+makefile
+batch.txt
+folder
+Program Description.docx
+a.out
+main.c
+a.txt
+readme.txt
+folder.txt
+batch2.txt
+main

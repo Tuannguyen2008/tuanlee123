@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40e13eeb-8d39-4c7e-ab32-2996c1b6da6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/20190115+Lecture+Slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Adobe Flash Player Installer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Adobe Flash Player Installer alias" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Chapter 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Computer_Systems-A_Programmers_Perspective-2e.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /CIS 3207 Project 3 Networked Spell Checker (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Condition Variable.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/ReadMe.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/dictionary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/logqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/logqueue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/serv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/serv.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/serv.dSYM/Contents/Resources/DWARF/serv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/spellchecker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Project_3/utils.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/ArrayPractice.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Autobiography of Red book bento.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Autobiography of Red.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Book Bento - The epic of Gilgamesh .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Book Bento .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Book Bento- The Plague.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/English essay.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/GDBassign.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/I and Thou - Book Bento.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/In 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/In.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Questions for Section 200 ESL.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Tao Te Ching Book Bento.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/The trials of Socrates book bento.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Written Part.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/Written_part.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/assign4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/assign6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/assign6.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/blowfish.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/blowfish.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/the trial book bento.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /Sameple Code/the trials book bento.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/RUNS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/Readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/fifoqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/fifoqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/fifoqueue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/lltest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/otherFunction.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/otherFunction.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/otherFunction.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/priorityqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/priorityqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/priorityqueue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/~$RUNS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /cis3207_project1_Nguyen_Tuan/~$Readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/readFile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/simulator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/simulator.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /event/simulator.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/ReadMe.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/Run.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/config.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/main1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/main1.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/priorityqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/priorityqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/priorityqueue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab1/searchFile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/Program Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/batch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/batch2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/file/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/in.txt.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/in2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /lab2/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/RUNS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/Readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/fifoqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/fifoqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/fifoqueue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/lltest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/otherFunction.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/otherFunction.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/otherFunction.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/priorityqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/priorityqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/priorityqueue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/~$RUNS.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Cs /project/~$Readme.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Google Chrome" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Google Chrome alias" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Laboratory Project 4 Developing a Virtual File System.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Process.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Program Description .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project 4 Outline of  File System Design Notes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project4+Testing+Requirement(1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/ReadMe.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/dictionary" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/logqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/logqueue.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/queue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/server.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/server.dSYM/Contents/Resources/DWARF/server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/spellchecker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Project_3/utils.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Review.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Screen Shot 2019-01-26 at 6.08.45 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Screen Shot 2019-03-15 at 6.14.13 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Screen Shot 2019-03-31 at 11.01.14 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Screen Shot 2019-04-01 at 12.45.57 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Screen Shot 2019-04-02 at 5.15.14 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/Study.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/You need to design and make a program.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/chapter 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/chapter 4.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/cis lec.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/cs lec.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/cs quiz.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/documentation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/file system- Design .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2-pseudo.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/3207 Introduction to Developing a Linux Shell.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/Program Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/Project 2 Developing a Linux Shell.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/batch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/batch2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/file/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/folder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/hello.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/help.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/lab2 .zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/lab2A.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab2/users" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/Program description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/logqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/logqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/logqueue.h.gch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/workqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/workqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3-1/workqueue.h.gch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/Program description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/Drive2MB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/Program Description .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/lab4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/lab4/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/logqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/logqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/logqueue.h.gch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/workqueue.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/workqueue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab3/workqueue.h.gch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4 a.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4/Drive2MB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4/Program Description .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/lab4/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/man.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/memory-mapped_io.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/oral .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/oral 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/.~lock.test.doc#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/.~lock.test2.doc#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/Drive10MB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/Drive2MB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/Drive3MB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/Drive5MB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/FileSystem.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/FileSystem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/FileSystem.h.gch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/ReadMe and Test.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/project4/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/test.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CIS 1068 lab/week 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Fragments-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Individual-Project-Proposal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KINS 1048 04 Swimming for the Non-Swimmer - Wolgast-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Photo on 3-16-17 at 7.26 PM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RECEIPT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Resume.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2019-08-29 at 8.46.59 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2019-08-29 at 8.51.22 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2019-08-31 at 12.13.34 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2019-08-31 at 12.20.27 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2019-08-31 at 8.56.49 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screen Shot 2019-09-04 at 11.05.57 AM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swimming for non.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TU-Aikido+Spring+2019+Syllabus.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UML-ObjectDiagrams_ClassDiagrams.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cis4296-starter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../git-2.15.0-intel-universal-mavericks.dmg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-accessu-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-accessu-master/app/src/main/java/edu/temple/accessu/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-accessu-master/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-accessu-master/app/src/main/res/layout/fragment1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swimming-and-water-safety-manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$ADME file .docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$Lab 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$ReadMe.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$S 1068 Review.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$b2A-pseudocode.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$ssign5.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PayStationMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banksim-02-nguyen-kieser-master/src/edu/temple/cis/c3238/banksim/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banksim-02-nguyen-kieser-master/src/edu/temple/cis/c3238/banksim/BankSimMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paystationmain-02-delacenserie-nguyen-the-owl-master/PayStationMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paystationmain-02-delacenserie-nguyen-the-owl-master/src/paystation/domain/PayStationImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paystationmain-02-delacenserie-nguyen-the-owl-master/src/paystation/domain/PayStationMain.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fragements/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fragements/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fragements/.idea/runConfigurations.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fragements/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fragements/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fragements/gradle.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fragements/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fragements/.idea/gradle.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="703" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fragments-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fragments-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fragments-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fragments-master" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40e13eeb-8d39-4c7e-ab32-2996c1b6da6a" name="Default Changelist" comment="" />
+      <created>1573599412650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573599412650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="703" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.25178713" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Fragements/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fragements/.idea/gradle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fragements/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fragements/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fragements/.idea/runConfigurations.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fragements/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fragements/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fragements/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

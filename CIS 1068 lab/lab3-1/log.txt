@@ -1,0 +1,11 @@
+hello 
+hello correct
+
+hi
+hi correct
+
+aligato
+aligato misspelled
+
+alo
+alo misspelled

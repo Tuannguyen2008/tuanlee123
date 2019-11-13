@@ -1,0 +1,234 @@
+At time 0 job 0 arrives
+At time 57 job 1 arrives
+At time 103 job 0 finished at CPU
+At time 103 job 0 arrived at disk
+At time 106 job 2 arrives
+At time 109 job 0 finished at disk 1
+At time 109 job 0 arrives
+At time 139 job 3 arrives
+At time 142 job 1 finished at CPU
+At time 142 job 1 arrived at disk
+At time 232 job 4 arrives
+At time 282 job 5 arrives
+At time 312 job 1 finished at disk 2
+At time 312 job 1 arrives
+At time 345 job 6 arrives
+At time 350 job 2 finished at CPU
+At time 350 job 2 exits
+At time 387 job 7 arrives
+At time 484 job 8 arrives
+At time 521 job 9 arrives
+At time 554 job 10 arrives
+At time 584 job 0 finished at CPU
+At time 584 job 0 arrived at disk
+At time 681 job 11 arrives
+At time 765 job 12 arrives
+At time 783 job 13 arrives
+At time 811 job 0 finished at disk 1
+At time 811 job 0 arrives
+At time 910 job 14 arrives
+At time 937 job 3 finished at CPU
+At time 937 job 3 arrived at disk
+At time 1030 job 15 arrives
+At time 1120 job 16 arrives
+At time 1208 job 17 arrives
+At time 1254 job 18 arrives
+At time 1281 job 1 finished at disk 2
+At time 1281 job 1 arrives
+At time 1284 job 19 arrives
+At time 1321 job 4 finished at CPU
+At time 1321 job 4 arrived at disk
+At time 1367 job 20 arrives
+At time 1438 job 21 arrives
+At time 1536 job 22 arrives
+At time 1547 job 23 arrives
+At time 1551 job 24 arrives
+At time 1591 job 0 finished at disk 1
+At time 1591 job 0 arrives
+At time 1639 job 25 arrives
+At time 1649 job 5 finished at CPU
+At time 1649 job 5 arrived at disk
+At time 1656 job 26 arrives
+At time 1702 job 27 arrives
+At time 1763 job 28 arrives
+At time 1853 job 29 arrives
+At time 1953 job 30 arrives
+At time 2012 job 31 arrives
+At time 2039 job 1 finished at disk 2
+At time 2039 job 1 arrives
+At time 2123 job 32 arrives
+At time 2141 job 1 finished at CPU
+At time 2141 job 1 arrived at disk
+At time 2200 job 33 arrives
+At time 2251 job 34 arrives
+At time 2325 job 35 arrives
+At time 2377 job 36 arrives
+At time 2417 job 37 arrives
+At time 2429 job 38 arrives
+At time 2454 job 39 arrives
+At time 2495 job 0 finished at disk 1
+At time 2495 job 0 arrives
+At time 2500 job 40 arrives
+At time 2549 job 6 finished at CPU
+At time 2549 job 6 arrived at disk
+At time 2629 job 41 arrives
+At time 2713 job 42 arrives
+At time 2736 job 43 arrives
+At time 2801 job 44 arrives
+At time 2897 job 45 arrives
+At time 2962 job 46 arrives
+At time 3059 job 47 arrives
+At time 3067 job 48 arrives
+At time 3093 job 1 finished at disk 2
+At time 3093 job 1 arrives
+At time 3126 job 49 arrives
+At time 3148 job 7 finished at CPU
+At time 3148 job 7 arrived at disk
+At time 3224 job 50 arrives
+At time 3313 job 51 arrives
+At time 3332 job 52 arrives
+At time 3403 job 53 arrives
+At time 3442 job 54 arrives
+At time 3448 job 55 arrives
+At time 3481 job 56 arrives
+At time 3555 job 57 arrives
+At time 3610 job 58 arrives
+At time 3616 job 0 finished at disk 1
+At time 3616 job 0 arrives
+At time 3714 job 59 arrives
+At time 3744 job 8 finished at CPU
+At time 3744 job 8 exits
+At time 3800 job 60 arrives
+At time 3858 job 61 arrives
+At time 3949 job 62 arrives
+At time 3996 job 63 arrives
+At time 4065 job 64 arrives
+At time 4094 job 65 arrives
+At time 4141 job 66 arrives
+At time 4229 job 67 arrives
+At time 4244 job 68 arrives
+At time 4255 job 69 arrives
+At time 4276 job 70 arrives
+At time 4312 job 9 finished at CPU
+At time 4312 job 9 exits
+At time 4387 job 71 arrives
+At time 4465 job 72 arrives
+At time 4515 job 73 arrives
+At time 4592 job 74 arrives
+At time 4627 job 75 arrives
+At time 4704 job 76 arrives
+At time 4769 job 77 arrives
+At time 4861 job 78 arrives
+At time 4905 job 79 arrives
+At time 4919 job 80 arrives
+At time 4991 job 81 arrives
+At time 5034 job 10 finished at CPU
+At time 5034 job 10 arrived at disk
+At time 5037 job 82 arrives
+At time 5127 job 83 arrives
+At time 5173 job 84 arrives
+At time 5183 job 85 arrives
+At time 5233 job 86 arrives
+At time 5314 job 87 arrives
+At time 5377 job 88 arrives
+At time 5430 job 89 arrives
+At time 5454 job 90 arrives
+At time 5515 job 91 arrives
+At time 5541 job 1 finished at disk 2
+At time 5541 job 1 arrives
+At time 5635 job 92 arrives
+At time 5637 job 11 finished at CPU
+At time 5637 job 11 exits
+At time 5640 job 93 arrives
+At time 5648 job 94 arrives
+At time 5734 job 95 arrives
+At time 5744 job 96 arrives
+At time 5826 job 97 arrives
+At time 5922 job 98 arrives
+At time 5950 job 99 arrives
+At time 5970 job 100 arrives
+At time 6020 job 101 arrives
+At time 6101 job 102 arrives
+At time 6128 job 103 arrives
+At time 6148 job 104 arrives
+At time 6165 job 12 finished at CPU
+At time 6165 job 12 arrived at disk
+At time 6175 job 105 arrives
+At time 6275 job 106 arrives
+At time 6355 job 107 arrives
+At time 6429 job 108 arrives
+At time 6474 job 109 arrives
+At time 6561 job 110 arrives
+At time 6569 job 111 arrives
+At time 6605 job 112 arrives
+At time 6661 job 113 arrives
+At time 6675 job 114 arrives
+At time 6681 job 115 arrives
+At time 6731 job 0 finished at disk 1
+At time 6731 job 0 arrives
+At time 6797 job 116 arrives
+At time 6843 job 13 finished at CPU
+At time 6843 job 13 exits
+At time 6896 job 117 arrives
+At time 6923 job 118 arrives
+At time 6961 job 119 arrives
+At time 6969 job 120 arrives
+At time 7033 job 121 arrives
+At time 7047 job 122 arrives
+At time 7052 job 123 arrives
+At time 7076 job 124 arrives
+At time 7096 job 125 arrives
+At time 7102 job 126 arrives
+At time 7202 job 127 arrives
+At time 7234 job 128 arrives
+At time 7258 job 129 arrives
+At time 7263 job 0 finished at CPU
+At time 7263 job 0 arrived at disk
+At time 7321 job 130 arrives
+At time 7374 job 131 arrives
+At time 7401 job 132 arrives
+At time 7408 job 133 arrives
+At time 7434 job 134 arrives
+At time 7437 job 135 arrives
+At time 7473 job 136 arrives
+At time 7560 job 137 arrives
+At time 7656 job 138 arrives
+At time 7751 job 139 arrives
+At time 7835 job 140 arrives
+At time 7877 job 141 arrives
+At time 7911 job 1 finished at disk 2
+At time 7911 job 1 arrives
+At time 7963 job 142 arrives
+At time 8004 job 14 finished at CPU
+At time 8004 job 14 arrived at disk
+At time 8083 job 143 arrives
+At time 8095 job 144 arrives
+At time 8152 job 145 arrives
+At time 8245 job 146 arrives
+At time 8284 job 147 arrives
+At time 8303 job 148 arrives
+At time 8335 job 149 arrives
+At time 8343 job 150 arrives
+At time 8397 job 151 arrives
+At time 8489 job 152 arrives
+At time 8524 job 153 arrives
+At time 8542 job 154 arrives
+At time 8568 job 155 arrives
+At time 8608 job 0 finished at disk 1
+At time 8608 job 0 arrives
+At time 8663 job 156 arrives
+At time 8690 job 15 finished at CPU
+At time 8690 job 15 exits
+At time 8731 job 157 arrives
+At time 8808 job 158 arrives
+At time 8861 job 159 arrives
+At time 8897 job 160 arrives
+At time 8934 job 161 arrives
+At time 8982 job 162 arrives
+At time 9042 job 163 arrives
+At time 9088 job 164 arrives
+At time 9103 job 165 arrives
+At time 9157 job 166 arrives
+At time 9240 job 167 arrives
+At time 9322 job 168 arrives
+At time 9376 job 169 arrives
